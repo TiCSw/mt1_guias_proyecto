@@ -20,7 +20,7 @@ El objetivo de esta actividad es:
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-Cada integrante en su espacio local, para cada uno de los recursos involucrados en las historias de usuario asignadas, debe:
+Cada integrante selecciona dos historias de usuario de la iteración 2 para ser implementadas. Para esto, por cada HU debe: 
 
 - Crear en el servicio del módulo del recurso la función que permite llamar al API REST para crear un recurso.
 - Verificar que exista la prueba para el servicio.
